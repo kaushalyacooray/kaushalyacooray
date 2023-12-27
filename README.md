@@ -1,4 +1,3 @@
 - 👋 Hi there, I am Kushalya Cooray
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java and Spring Boot 
-- 📫 kaushi.ukc@hotmail.com
+- 📫 kaushalyabulathsinhalage@gmail.com
